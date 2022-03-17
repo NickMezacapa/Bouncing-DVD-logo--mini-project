@@ -3,6 +3,9 @@ The classic DVD bouncing logo. Simple, yet entertaining, and possibly one of the
 
 This is another fun mini project. If you like my work or you learned something new then star the repo!
 
+## Live Site
+https://nickmezacapa.github.io/Bouncing-DVD-logo--mini-project/
+
 ## Codepen
 https://codepen.io/nickmezacapa/pen/OJzPVrN
 
